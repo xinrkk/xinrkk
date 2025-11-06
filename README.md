@@ -11,3 +11,6 @@
 
 [Role model 1](https://github.com/elie222)  
 [Role model 2](https://github.com/arvinxx)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,100:D76D77&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+</div>
