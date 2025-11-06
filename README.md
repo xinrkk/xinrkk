@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=每想你一次;天上落下一粒沙;从此形成撒哈拉)](https://git.io/typing-svg)
 
-# 👋 Hello，here is XinrKK  
+# Here is XinrKK  
 
 <p></p>
 
