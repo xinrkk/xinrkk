@@ -6,7 +6,6 @@
 
 # XinrKK  
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Long+Cang&size=45&duration=1&pause=1000&color=FF7AE9&center=true&vCenter=true&width=800&lines=爱你一万年，也太短)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,100:D76D77&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
