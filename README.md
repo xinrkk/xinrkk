@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=35&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=我不懂相遇的意义;但我想一定不是放弃;更不相信是为了最终的离别)](https://git.io/typing-svg)
 
-# Here is XinrKK  
+# XinrKK  
 
 <p></p>
 
