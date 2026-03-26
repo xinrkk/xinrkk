@@ -9,8 +9,8 @@
 <h1> Hello, I'm XinrKK</h1>
 
 🎓 计算机专业在读  
-💻 热爱编程 | 专注后端 & 网络技术  
-🚀 正在不断学习 Go / Web / Linux  
+💻 热爱编程 | 专注安全攻防 & 项目开发  
+🚀 正在不断学习 Python / c++ / Linux  
 📫 联系方式：xinr_kk@outlook.com
 
 </div>
