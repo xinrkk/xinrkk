@@ -8,7 +8,7 @@
 
 <h1> Hello, I'm XinrKK</h1>
 
-🎓 计算机专业在读  
+🎓 计算机专业本科在读  
 💻 热爱编程 | 专注安全攻防 & 项目开发  
 🚀 正在不断学习 Python / c++ / Linux  
 📫 联系方式：xinr_kk@outlook.com
